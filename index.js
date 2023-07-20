@@ -2,27 +2,27 @@ let movies = [
     {
         name: "Falcon and the winter soldier",
         des: "ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, augue eu tincidunt tincidunt, nunc leo tincidunt augue, eu tincidunt augue augue eu tincidunt augue. Donec euismod, augue eu tincidunt tincidunt, nunc leo tincidunt augue, eu tincidunt augue augue eu tincidunt augue. Donec euismod, augue eu tincidunt tincidunt, nunc leo tincidunt augue, eu tincidunt augue augue eu tincidunt augue. Donec euismod, augue eu tincidunt tincidunt, nunc leo tincidunt augue, eu tincidunt augue augue eu tincidunt",
-        image: "images/slider 2.PNG"
+        image: "Images/slider 2.PNG"
     },
     {
         name: "loki",
         des: "ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, augue eu tincidunt tincidunt, nunc leo tincidunt augue, eu tincidunt augue augue eu tincidunt augue. Donec euismod, augue eu tincidunt tincidunt, nunc leo tincidunt augue, eu tincidunt augue augue eu tincidunt augue. Donec euismod, augue eu tincidunt tincidunt, nunc leo tincidunt augue, eu tincidunt augue augue eu tincidunt augue. Donec euismod, augue eu tincidunt tincidunt, nunc leo tincidunt augue, eu tincidunt augue augue eu tincidunt",
-        image: "images/slider 1.PNG"
+        image: "Images/slider 1.PNG"
     },
     {
         name: "wanda vision",
         des: "ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, augue eu tincidunt tincidunt, nunc leo tincidunt augue, eu tincidunt augue augue eu tincidunt augue. Donec euismod, augue eu tincidunt tincidunt, nunc leo tincidunt augue, eu tincidunt augue augue eu tincidunt augue. Donec euismod, augue eu tincidunt tincidunt, nunc leo tincidunt augue, eu tincidunt augue augue eu tincidunt augue. Donec euismod, augue eu tincidunt tincidunt, nunc leo tincidunt augue, eu tincidunt augue augue eu tincidunt",
-        image: "images/slider 3.PNG"
+        image: "Images/slider 3.PNG"
     },
     {
         name: "raya and the last dragon",
         des: "ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, augue eu tincidunt tincidunt, nunc leo tincidunt augue, eu tincidunt augue augue eu tincidunt augue. Donec euismod, augue eu tincidunt tincidunt, nunc leo tincidunt augue, eu tincidunt augue augue eu tincidunt augue. Donec euismod, augue eu tincidunt tincidunt, nunc leo tincidunt augue, eu tincidunt augue augue eu tincidunt augue. Donec euismod, augue eu tincidunt tincidunt, nunc leo tincidunt augue, eu tincidunt augue augue eu tincidunt",
-        image: "images/slider 4.PNG"
+        image: "Images/slider 4.PNG"
     },
     {
         name: "luca",
         des: "ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, augue eu tincidunt tincidunt, nunc leo tincidunt augue, eu tincidunt augue augue eu tincidunt augue. Donec euismod, augue eu tincidunt tincidunt, nunc leo tincidunt augue, eu tincidunt augue augue eu tincidunt augue. Donec euismod, augue eu tincidunt tincidunt, nunc leo tincidunt augue, eu tincidunt augue augue eu tincidunt augue. Donec euismod, augue eu tincidunt tincidunt, nunc leo tincidunt augue, eu tincidunt augue augue eu tincidunt",
-        image: "images/slider 5.PNG"
+        image: "Images/slider 5.PNG"
     }
 ];
 
